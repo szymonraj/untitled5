@@ -1,0 +1,3 @@
+C:/Users/Dell E7270 i5 vPro/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir
+C:/Users/Dell E7270 i5 vPro/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell E7270 i5 vPro/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
